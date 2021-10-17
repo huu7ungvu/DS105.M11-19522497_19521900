@@ -1,4 +1,6 @@
-+ Tao tính thế này nè mày
++ DS105.M11
++ Dataset: Countries of the World
++ Link tải: https://www.kaggle.com/fernandol/countries-of-the-world
 + Datase này lấy trên kaggle, bài toán sẽ là dự đoán gpd của một nước dựa vào phương pháp máy học
 + Bố cục : 
 1) Thu thập thêm dữ liệu (Mở rộng thêm các cột thuộc tính)
