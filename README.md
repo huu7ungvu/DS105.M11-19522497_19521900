@@ -6,7 +6,7 @@
 2) Tiền xử lý dữ liệu
 3) EDA
 4) ANOVA (???)
-5) Lựa chọn và phát triển mô hình để dự đoán gdp của một nước
+5) Lựa chọn và phát triển mô hình để dự đoán sự tăng trưởng gdp của một nước
 6) Đánh giá mô hình
 7) Tổng kết và hướng phát triển tương lai
 
