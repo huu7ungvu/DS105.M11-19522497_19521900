@@ -1,6 +1,0 @@
----- Tài liệu về mô hình học máy ----
-1) https://www.frontiersin.org/articles/10.3389/frai.2021.757864/full
----- tài liệu về mô hình chuỗi thời gian ----
-2) https://phamdinhkhanh.github.io/2019/12/12/ARIMAmodel.html
-3) https://bigdatauni.com/tin-tuc/tim-hieu-ve-time-series-p-5-so-luoc-ve-arima.html
-4) https://ichi.pro/vi/5-buoc-don-gian-de-xay-dung-mo-hinh-du-bao-chuoi-thoi-gian-cua-ban-107981437320245
